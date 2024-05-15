@@ -1,7 +1,7 @@
 # Sonarqube-on-docker
 Set up Sonarqube on docker. Works both on Linux and Windows
 
-- Visit  [Docker official](https://breakdance.github.io/breakdance/) and download the latest deb(for Linux) / exe (windows
+- Visit  [Docker official](https://docs.docker.com/desktop/install/ubuntu/) and download the latest deb(for Linux) / exe (windows
 - Unzip and install the .deb by running ```sudo dpkg -i DEB_PACKAGE``` - Linux
 - install by double clicking the .exe file - windows
 - After installing, open docker desktop and navigate to images
