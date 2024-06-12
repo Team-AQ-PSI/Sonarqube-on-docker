@@ -27,4 +27,4 @@ Set up Sonarqube on docker. Works both on Linux and Windows
 ![5](https://github.com/Team-AQ-PSI/Sonarqube-on-docker/assets/100823292/bd238581-464b-4872-a353-93d3a9bd7b12)
 
 - click on it to open it on the browser.
-- The default username and password will be admin.
+- The default username:admin and password:admin.
